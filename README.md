@@ -1,2 +1,2 @@
 # trafic_next_tailwind
-Website has been developed uing next and tailwindcss.
+Website has been developed using next and tailwindcss.
