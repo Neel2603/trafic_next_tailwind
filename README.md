@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+![trafic-partner](https://user-images.githubusercontent.com/53113741/209195148-25afa70d-ae44-4fad-bffd-49d060ca0e91.png)
+
+
 First, run the development server:
 
 ```bash
